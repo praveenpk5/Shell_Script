@@ -1,2 +1,2 @@
 # Shell
-“Developed shell scripts to optimize service configuration and improve system performance.
+Designed and implemented shell scripts to streamline service configuration and enhance performance.
