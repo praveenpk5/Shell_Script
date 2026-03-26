@@ -12,3 +12,4 @@ result=$((a * b))
 
 # Display result
 echo "Multiplication result: $result"
+echo "Multiplication operation completed successfully."
